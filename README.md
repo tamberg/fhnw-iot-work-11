@@ -12,7 +12,16 @@ For slides and example code, see [lesson 11](../../../fhnw-iot/blob/master/11/RE
 * How would you integrate a product backend?
 * Deploying requires an [AWS account](https://aws.amazon.com/account/).
 
-### b)
+### b) Voice interaction design, 10'
+* Imagine a simple voice controlled connected device.
+* Find three use-cases and the corresponding _intents_.
+* Write down two realistic _utterances_ for each intent.
+
+### c) Use cases in context, 10'
+* Come up with a use case for a _home_, _hotel_ & _hospital_.
+* What changes with the context, what stays the same?
+* Who is the user? What does the system (not) know?
+* Who can see the data? How private is the data?
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
