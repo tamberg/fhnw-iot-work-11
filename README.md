@@ -5,7 +5,7 @@ For slides and example code, see [lesson 11](../../../fhnw-iot/blob/master/11/RE
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) Hello World Alexa skill, 15'
+### a) Alexa skills, 15'
 * Read the docs on getting started with [Alexa Skills Kit](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/what-is-the-alexa-skills-kit.html).
 * Try to understand the [components of a custom skill](https://developer.amazon.com/en-US/docs/alexa/custom-skills/understanding-custom-skills.html#components-of-a-custom-skill).
 * See how the [Smart Home Skill API](https://developer.amazon.com/en-US/docs/alexa/smarthome/understand-the-smart-home-skill-api.html) simplifies this.
